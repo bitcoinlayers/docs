@@ -19,7 +19,7 @@ BTC tokens covered:
 - **cbBTC**: Coinbase's cbBTC
 - **tBTC**: Threshold's tBTC
 - **axlBTC**: Axelar's axlBTC
-- **dlcBTC**: DLCLink's dlcBTC
+- **dlcBTC**: dlcBTC's dlcBTC
 
 ### cbBTC
 
