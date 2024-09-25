@@ -22,13 +22,17 @@ BTC tokens covered:
 ### tBTC
 
 BOB token address - https://explorer.gobob.xyz/token/0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3
+
 Ethereum's BOB bridge address - https://etherscan.io/address/0x3F6cE1b36e5120BBc59D0cFe8A5aC8b6464ac1f7
+
 Ethereum token address - https://etherscan.io/address/0x18084fbA666a33d37592fA2633fD49a74DD93a88
 
 ### WBTC
 
 BOB token address - https://explorer.gobob.xyz/token/0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2
+
 Ethereum's BOB bridge address - https://etherscan.io/address/0x3F6cE1b36e5120BBc59D0cFe8A5aC8b6464ac1f7
+
 Ethereum token address - https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599
 
 ## Metrics and Heuristics
